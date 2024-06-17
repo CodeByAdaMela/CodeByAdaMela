@@ -14,7 +14,8 @@
 
 📫 How to reach me:  **Instagram : [here](https://www.instagram.com/_melkyway/)**
 
-⚡ Fun fact ** I love cats, beaches, and hiking!**
+⚡ Fun fact **I love Cats, beaches, and Hiking!**
+
 
  </div>
  
@@ -34,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,flutter,vue,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mong odb,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
