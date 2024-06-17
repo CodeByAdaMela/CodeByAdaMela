@@ -1,6 +1,5 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie +Abalde!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
 </h1>
 
 <h3 align="center"> Art, Passion, Technology </h3>
@@ -11,7 +10,7 @@
  
  🔭 I’m currently working on **Point-Of-Sale-with-Inventory System**
  
- 🌱 I’m currently learning **Python-Firebase-AP**
+ 🌱 I’m currently learning **Python-Firebase-API**
 
 📫 How to reach me:  **Instagram : [here](https://www.instagram.com/_melkyway/)**
 
