@@ -1,6 +1,8 @@
 
+<div align ="center">
+    ![cyberpunk](https://github.com/CodeByAdaMela/CodeByAdaMela/assets/171462377/a8637041-dc49-404b-8cf0-bcc6d0dd8bc2)
 
-![cyberpunk](https://github.com/CodeByAdaMela/CodeByAdaMela/assets/171462377/a8637041-dc49-404b-8cf0-bcc6d0dd8bc2)
+</div>
 
 
 <h1 align="center">
