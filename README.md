@@ -1,11 +1,7 @@
 
-<div align ="center">
-       <img src="    ![cyberpunk](https://github.com/CodeByAdaMela/CodeByAdaMela/assets/171462377/a8637041-dc49-404b-8cf0-bcc6d0dd8bc2)width=500&height=70;" />
-
-    
-
-</div>
-
+<h1 align="center">
+    <img src="https://github.com/CodeByAdaMela/CodeByAdaMela/blob/main/cyberpunk.png" width="250" height="250" />
+</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
