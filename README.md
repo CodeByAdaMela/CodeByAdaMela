@@ -2,6 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
 </h1>
 
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/citytheme.gif" width="60%" >   
+</a>
+
+
 <h3 align="center"> Art, Passion, Technology </h3>
 
 <br/>
