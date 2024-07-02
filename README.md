@@ -1,7 +1,7 @@
 
 
+![cyberpunk](https://github.com/CodeByAdaMela/CodeByAdaMela/assets/171462377/a8637041-dc49-404b-8cf0-bcc6d0dd8bc2)
 
-  <img src="![Screenshot 2024-07-02 093930](https://github.com/CodeByAdaMela/CodeByAdaMela/assets/171462377/7fbb0b9e-0127-429f-8703-3371e31e4496)"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
